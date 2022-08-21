@@ -1,2 +1,3 @@
 # JS-Calculator
- calculator app
+ Calculator app
+Preview Link: https://semelitis.github.io/JS-Calculator/
